@@ -5,11 +5,6 @@ import 'firebase/firestore';
 // Ajouter votre objet de configuration Firebase
 const firebaseConfig = {
   
-  
-  
-  
-  
-  
 };
 
 // Initialiser Firebase
